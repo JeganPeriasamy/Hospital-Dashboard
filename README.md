@@ -15,7 +15,8 @@
 
 
 ## Demo [https://zeedashboard.netlify.app](https://zeedashboard.netlify.app)
-![hospital admin](https://github.com/JeganPeriasamy/Hospital-Dashboard/assets/166896131/1f343696-7c2b-4a7c-beb3-641ae1202bc7)
+![hospital admin](https://github.com/JeganPeriasamy/Hospital-Dashboard/assets/166896131/c03b15d6-30b6-4315-8966-94e1dd382934)
+
 
 ## Technologies Used
 
