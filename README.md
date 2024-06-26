@@ -14,7 +14,7 @@
 - Admin Dashboard contain Facilities : Add Doctor, Add Admin, View Messages, View Doctors, View and Update Appointments
 
 
-## Demo [https://hospitaldash.netlify.app/login](https://hospitaldash.netlify.app/login)
+## Demo [https://zeedashboard.netlify.app](https://zeedashboard.netlify.app)
 ![hospital admin](https://github.com/JeganPeriasamy/Hospital-Dashboard/assets/166896131/1f343696-7c2b-4a7c-beb3-641ae1202bc7)
 
 ## Technologies Used
